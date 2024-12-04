@@ -1,0 +1,18 @@
+{
+    "name": "alpha/poo",
+    "description": "Une application qui permet de créer des cartes et de les visualiser.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alpha\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alpha"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
